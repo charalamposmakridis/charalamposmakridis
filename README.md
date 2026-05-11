@@ -2,7 +2,7 @@
 
 🎓 **Student in Applied Informatics & Information Systems**  
 📍 **University of Macedonia**, Thessaloniki  
-💻 **Junior Software Developer** 
+💻 **Aspiring Junior Software Developer** 
 
 💡**Fun Fact:**
   - 🐛 Kinda afraid of bugs (in every sense of the word). 

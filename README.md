@@ -1,6 +1,6 @@
 # 👋🏼 Hello, I'm Charalampos "Haris" Makridis.
 
-🎓 **Student in Applied Informatics & Information Systems**  
+🎓 **BSc in Applied Informatics & Information Systems**  
 📍 **University of Macedonia**, Thessaloniki  
 💻 **Aspiring Junior Software Developer** 
 

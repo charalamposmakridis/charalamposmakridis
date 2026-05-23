@@ -7,6 +7,7 @@
 💡**Fun Fact:**
   - 🐛 Kinda afraid of bugs (in every sense of the word). 
 
+🚀 Currently diving into Laravel.
 ---
 
 ## 🚀 My Tech Stack

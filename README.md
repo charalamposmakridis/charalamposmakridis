@@ -2,7 +2,7 @@
 
 🎓 **BSc in Applied Informatics & Information Systems**  
 📍 **University of Macedonia**, Thessaloniki  
-💻 **Aspiring Junior Software Developer** 
+💻 **Aspiring Junior Web Developer** 
 
 ---
 
